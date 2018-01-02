@@ -1,0 +1,16 @@
+p {
+  color: grey;
+}
+
+a:hover{
+  color:green;
+}
+
+h1 {
+  font-size: 4.5em;
+  color: blue;
+}
+
+ul:last-child li {
+  display: inline-block;
+}
